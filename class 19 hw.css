@@ -1,0 +1,60 @@
+body{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 100vh;
+}
+section{
+border: none;
+padding: 20px;
+height: 90vh;
+width: 30vw;
+box-shadow: 3px 3px 10px 2px rgb(209, 146, 146);
+
+}
+#header1{
+    color: blue;font-family: Arial, Helvetica, sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+#colorfullbg{
+    background-color: blue;
+    color: white;
+    border-radius: 2px;
+    width: 120px;
+}
+#header2{
+
+   font-family: Arial, Helvetica, sans-serif;
+   color: black;
+   font-size: 35px;
+   padding: 20px 0 10px 0;
+}
+small{
+    padding: 5px 0 10px 0;
+}
+.personalinfo{
+    display: block;
+    height: 5vh;
+    width: 95%;
+    padding: 10px;
+    margin: 10px 0;
+}
+.blueword{
+color: rgb(2, 2, 146);
+font-weight: 800;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+}
+#singinbutton{
+    font-size: 13px;
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 8vh;
+    width: 90%;
+    border-radius: 20px;
+}
